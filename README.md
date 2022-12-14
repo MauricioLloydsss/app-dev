@@ -1,2 +1,6 @@
-# app-dev
-My First Repository
+# Favorites
+Movies
+1. Wednesday 
+
+Series
+1. Start - up
